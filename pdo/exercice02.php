@@ -1,6 +1,10 @@
 <?php
 /**
+ *
+ *
  * @file    exercice02.php
+ *
+ *
  * @author	Hans Vanpee <hans@vanpee.fr>
  * @brief	Créez un form pour la saisie d'une nouvelle commande.
  *
